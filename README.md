@@ -1,2 +1,5 @@
-# next.js-testing
-learning next.js, python, &amp; integrating meet up api - template to play with code without negatively affecting group project
+## Next.js App Router Course - Starter
+
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
